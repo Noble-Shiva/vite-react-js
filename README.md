@@ -2,7 +2,7 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-This project has been configured to run with .js files instead of standard .jsx as vite supports only .jsx
+This project has been configured to run with ```.js``` files instead of standard ```.jsx``` as vite supports only ```.jsx```
 this project has been creating leveraging this issue - https://github.com/vitejs/vite/discussions/3448
 
 Currently, two official plugins are available:
